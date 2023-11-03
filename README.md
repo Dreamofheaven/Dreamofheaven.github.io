@@ -12,5 +12,6 @@
 </ul>
 
 ### 미리보기
-
-![Uploading image.png…]()
+<img src="readme_img/image01.png" alt="메인화면">
+<img src="readme_img/image02.png" alt="메인화면">
+<img src="readme_img/image03.png" alt="메인화면">
