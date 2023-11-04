@@ -2,7 +2,7 @@
 🥨깃헙 배포
 
 # 1. Airbnb 클론코딩 (페어 프로그래밍) 
-[서비스 바로가기](https://dreamofheaven.github.io/airbnb_clone/main.html)
+[서비스 바로가기](https://dreamofheaven.github.io/01.%20airbnb_clone/main.html)
 ### 기술 스택
 <ul>
   <li>HTML</li>
