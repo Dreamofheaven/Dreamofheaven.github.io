@@ -1,5 +1,5 @@
 # 3. 네이버 MY BOX 클론코딩 (페어 프로그래밍)
-[🚀서비스 바로 가기](https://dreamofheaven.github.io/03.%20mybox/main.html)
+[🚀서비스 바로 가기](https://dreamofheaven.github.io/03mybox/main.html)
 ### 기술 스택
 <ul>
   <li>HTML</li>
