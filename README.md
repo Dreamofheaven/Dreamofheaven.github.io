@@ -35,3 +35,9 @@
   <li>bootstrap</li>
   <li>반응형웹</li>
 </ul>
+
+### 미리보기
+<img src="readme_img/mybox01.PNG" alt="메인화면">
+<img src="readme_img/mybox02.PNG" alt="메인화면">
+<img src="readme_img/mybox03.PNG" alt="메인화면">
+<img src="readme_img/mybox04.PNG" alt="메인화면">
