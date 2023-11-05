@@ -53,4 +53,5 @@
     </ul>
 
     ### 미리보기
+    <img src="readme_img/carousel.PNG" alt="메인화면">
     
